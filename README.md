@@ -3,6 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ~Level 1: Add another button to change the user’s name to ‘Admin’. Follow the
 same action-reducer redux pattern.~
+
 ~Level 2: Add an user status into store. ‘not_logged_in’ by default, changed to
 ‘logged_in’ immediately after app inits, and changes to ‘logged_out’ when user
 clicks a button saying ‘Log out’. Also renders the status in the screen all the time.~
