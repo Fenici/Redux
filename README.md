@@ -1,4 +1,21 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# TASK Description and Progress 
+
+~Level 1: Add another button to change the user’s name to ‘Admin’. Follow the
+same action-reducer redux pattern.~
+~Level 2: Add an user status into store. ‘not_logged_in’ by default, changed to
+‘logged_in’ immediately after app inits, and changes to ‘logged_out’ when user
+clicks a button saying ‘Log out’. Also renders the status in the screen all the time.~
+
+Further Digging : 
+1. able to log in and logout to different state , allow user to see different state 
+2. full authentication App 
+    a. Allow user to Create account / delete account / update Account 
+    b. Store user info in a state
+3. understand more about redux 
+
+
+
 
 ## Available Scripts
 
@@ -66,3 +83,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+# Redux
